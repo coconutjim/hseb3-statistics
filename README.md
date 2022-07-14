@@ -1,2 +1,2 @@
 # hseb3-statistics
-2014\. Study projects. Some statistics exercises with Java.
+2014\. Study projects. Some statistics and sorting exercises with Java.
